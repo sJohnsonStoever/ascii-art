@@ -6,5 +6,6 @@
 .beads/proxieddb/
 
 # Gas City
+.gc/
 .beads/*
 !.beads/identity.toml
